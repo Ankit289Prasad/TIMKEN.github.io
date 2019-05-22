@@ -1,0 +1,31 @@
+body{
+    
+    background:url(timken.jpg);
+    background-size:cover;
+}
+a
+{
+    color: #000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 30px;
+}
+.cong
+{
+    background: rgba(253, 144, 1, 0.7);
+    padding: 40px;
+    height: 170px;
+    margin-top: 100px;
+    margin-left: 180px;
+    margin: 0 auto;
+    margin-top:120;
+    width: 400px;
+}
+h2{
+    margin-top: 50px;
+    margin-left: 10px;
+    text-align: left;
+}
+a:hover
+{
+    color: rebeccapurple;
+}

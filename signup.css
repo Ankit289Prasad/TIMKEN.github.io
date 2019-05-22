@@ -1,0 +1,58 @@
+body{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    background:url(timken-museum-art-reflected-balboa-park-pool-san-diego-california.jpg);
+    background-size:cover;
+}
+.signup
+{
+    background: rgba(253, 144, 1, 0.7);
+    padding: 40px;
+    width: 280px;
+    margin: auto;
+    margin-top: 80px;
+    height: 450px;
+    margin-left: 180x;
+}
+form
+{
+    width: 280px;
+    text-align: center;
+}
+input
+{
+    width: 240px;
+    text-align: center;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    font-family: 'Play',sans-serif;
+    font-size: 16px;
+    font-weight: 200px;
+    padding: 10px 0;
+    transition: border 0.5s;
+    outline: none;
+    color: #fff;
+}
+input[type=button]
+{
+    border: none;
+    width: 190px;
+    background: #fff;
+    color: #000;
+    font-size:16px;
+    line-height: 25px;
+    padding: 10px 0;
+    border-radius: 15px;
+    cursor: pointer;
+}
+input[type=button]:hover
+{
+    color: #fff;
+    background-color: #000;
+
+}
+::placeholder{
+    color: aliceblue;
+    opacity: 0.8;
+}
