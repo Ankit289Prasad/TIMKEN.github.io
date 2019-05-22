@@ -1,5 +1,6 @@
 ### *Timken Login Page*
-#Screenshot
+
+#Screenshots
 ![homepage](https://github.com/Ankit289Prasad/Timken/blob/master/Screenshot.png)
 
 ![homepage](https://github.com/Ankit289Prasad/Timken/blob/master/Screenshot1.png)
